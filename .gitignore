@@ -1,0 +1,15 @@
+.Rproj.user
+.Rhistory
+.RData
+.Ruserdata
+.DS_Store
+*~
+*.Rproj
+.Rproj.user/
+.Rproj.user
+*.pdf
+*.png
+*.pptx
+figure-creation/source-data/
+figure-creation/figures/
+figure-creation/data/
